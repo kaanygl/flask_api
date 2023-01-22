@@ -9,6 +9,6 @@ MarkupSafe==2.1.2
 numpy==1.24.1
 scikit-learn==1.2.0
 scipy==1.10.0
-sklearn==0.0.post1
+scikit-learn==0.0.post1
 threadpoolctl==3.1.0
 Werkzeug==2.2.2
